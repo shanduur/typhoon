@@ -46,6 +46,7 @@ Typhoon is available for [Flatcar Linux](https://www.flatcar-linux.org/releases/
 
 | Platform      | Operating System | Terraform Module | Status |
 |---------------|------------------|------------------|--------|
+| Akamai        | Flatcar Linux    | [akamai/flatcar-linux/kubernetes](akamai/flatcar-linux/kubernetes) | alpha |
 | AWS           | Flatcar Linux    | [aws/flatcar-linux/kubernetes](aws/flatcar-linux/kubernetes) | stable |
 | Azure         | Flatcar Linux    | [azure/flatcar-linux/kubernetes](azure/flatcar-linux/kubernetes) | alpha |
 | Bare-Metal    | Flatcar Linux    | [bare-metal/flatcar-linux/kubernetes](bare-metal/flatcar-linux/kubernetes) | stable |
